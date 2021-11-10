@@ -1,6 +1,6 @@
 /*General*/
 body{
-	background-image: url(background-2.jpg);
+	background-image: url(./img/background-2.jpg);
 	background-size: cover;
 	margin: 0;
 }
@@ -94,12 +94,8 @@ button {
 
 
 /*footer*/
-footer {
-    height: 120px;
+.footer {
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 0px;
-    background-color: #a15c2f66;
 }
 
 .footer-title{
@@ -107,17 +103,6 @@ footer {
 	font-size: 30px;
 	font-weight: bolder;
     margin-bottom: 15px;
-}
-
-.fa{
-    margin: 5px;
-}
-
-a{
-    margin-right: 15px;
-    cursor: pointer;
-}
-
-a:hover{
-    opacity: 0.8;
+    text-align: center;
+    font-family: 'Courgette', cursive;
 }
