@@ -77,6 +77,10 @@ button {
     cursor: pointer;
 }
 
+button:hover {
+    background-color: #82a5c54d;
+}
+
 .row{
 	padding-top: 30px;
 	padding-left: 30px;
