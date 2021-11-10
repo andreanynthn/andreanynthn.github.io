@@ -9,10 +9,12 @@
 	}
 
 	#output{
-		max-width: 100%;
+		width: 100%;
+		margin: 0 auto;
 	}
 
 	.keyboard{
-		max-width: 100%;
+		width: 100%;
+		margin: 0 auto;
 	}
 }
