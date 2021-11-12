@@ -110,9 +110,9 @@ button:hover {
 }
 
 .footer-title{
-	display: inline-block;
-	font-size: 30px;
-	font-weight: bolder;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bolder;
     margin-bottom: 15px;
     text-align: center;
     font-family: 'Baloo Bhai 2', cursive;
