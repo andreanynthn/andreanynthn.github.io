@@ -84,6 +84,10 @@ button:hover {
     background-color: #5c9d9dc4;
 }
 
+.number:active{
+    background-color: #1e4e4e9c;
+}
+
 .none:hover{
     background-color: transparent;
 }
@@ -118,9 +122,4 @@ button:hover {
     font-family: 'Baloo Bhai 2', cursive;
     text-decoration: none;
     color: black;
-}
-
-a{
-	text-decoration: none;
-	color: black;
 }
