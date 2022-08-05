@@ -2,7 +2,9 @@
 
 .jumbotron{
   padding-top: 5rem;
+  /* background-image: url('img/background3.jpg'); */
   background-color: #d6e5ff;
+  background-size: cover;
 }
 
 #projects{
@@ -10,5 +12,13 @@
 }
 
 section{
-  padding-top: 5rem;
+  padding-top: 3rem;
+}
+
+#about{
+  background-color: #c5ddf1;
+}
+
+#contact{
+  background-color: #c5ddf1;
 }
