@@ -6,6 +6,11 @@
   background-color: #d6e5ff;
 }
 
+#socmed{
+  width: 150px;
+  height: 100px;
+}
+
 #projects{
   background-color: #d6e5ff;
 }
@@ -14,10 +19,10 @@ section{
   padding-top: 3rem;
 }
 
-#about{
+#about, #certificate{
   background-color: #c5ddf1;
 }
 
 #contact{
-  background-color: #c5ddf1;
+  background-color: #d6e5ff;
 }
